@@ -1,8 +1,10 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=110&section=header" width="100%" alt=""/>
+
 # 👋 Hi, I'm Faisal Tayyab
 
-### 💻 Full Stack Developer &nbsp;|&nbsp; 🐍 Django · ⚙️ DRF · ⚛️ React
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&height=40&lines=Full+Stack+Developer;Django+%C2%B7+DRF+%C2%B7+React;Secure+APIs+%26+Clean+Interfaces;President+%40+Community+Support+Program" alt="Full Stack Developer | Django, DRF, React"/>
 
 📍 Islamabad, Pakistan
 
